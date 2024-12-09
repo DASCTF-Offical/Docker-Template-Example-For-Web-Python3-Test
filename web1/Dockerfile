@@ -1,4 +1,4 @@
-FROM dasctfbase/web_python3
+FROM ghcr.io/dasctf-offical/docker-template-for-web-python3:main
 
 COPY src /app/
 
